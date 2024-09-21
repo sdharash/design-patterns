@@ -5,4 +5,5 @@ Design Patterns Covered:
 1. Singleton - https://github.com/sdharash/design-patterns/tree/master/singleton-pattern/src
 2. Adapter - https://github.com/sdharash/design-patterns/tree/master/adaptor-pattern/src
 3. Observer - https://github.com/sdharash/design-patterns/tree/master/observer-pattern/src
+4. Chain of responsibility - https://github.com/sdharash/design-patterns/tree/master/chain-of-responsibility-pattern/src
    
